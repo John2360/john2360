@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi, I'm John Finberg
+[![Linkedin Badge](https://img.shields.io/badge/-John%20Finberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-finberg-329899ba/)](https://www.linkedin.com/in/john-finberg-329899ba/)
+[![Gmail Badge](https://img.shields.io/badge/-johnbfinberg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnbfinberg@gmail.com)](mailto:johnbfinberg@gmail.com)
+
+### 👋 About Me
+I am a software engineer with a passion for building products that help people. I am currently a cofounder at Mezo, a startup agrating the shopping experience into a simple algorithmic experience. I am also a student at Brown University studying computer science.
+
+### 💼 Experience 
+ - Cofounder @ Mezo (2023-present)
+ - Software Development Engineer Intern @ Amazon (2023)
+ - Web Development Intern @ University California San Francisco (2022)
+ - Software Engineer Intern @ RoundhouseOne (2021)
+
+### 🏫 Education
+ - Applicant M.S. in Computer Science from the Brown University (2024-2025)
+ - B.S. in Computer Science from the Brown University (2022-2024)
+ - B.S. in Computer Science from the Haverford Colege (2020-2022)
 
 <!--
 **John2360/john2360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
