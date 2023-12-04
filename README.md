@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-johnbfinberg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnbfinberg@gmail.com)](mailto:johnbfinberg@gmail.com)
 
 ### 👋 About Me
-I am a software engineer with a passion for building products that help people. I am currently a cofounder at Mezo, a startup agrating the shopping experience into a simple algorithmic experience. I am also a student at Brown University studying computer science.
+I am a software engineer with a passion for building products that help people. I am currently a cofounder at Mezo, a startup aggregating the shopping experience into a simple algorithmic experience. I am also a student at Brown University studying computer science.
 
 ### 💼 Experience 
  - Cofounder @ Mezo (2023-present)
