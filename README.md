@@ -12,9 +12,9 @@ I am a software engineer with a passion for building products that help people. 
  - Software Engineer Intern @ RoundhouseOne (2021)
 
 ### 🏫 Education
- - Applicant M.S. in Computer Science from the Brown University (2024-2025)
- - B.S. in Computer Science from the Brown University (2022-2024)
- - B.S. in Computer Science from the Haverford Colege (2020-2022)
+ - Applicant M.S. in Computer Science from Brown University (2024-2025)
+ - B.S. in Computer Science from Brown University (2022-2024)
+ - B.S. in Computer Science from Haverford Colege (2020-2022)
 
 <!--
 **John2360/john2360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
