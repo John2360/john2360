@@ -1,5 +1,5 @@
 # Hi, I'm John Finberg
-[![Linkedin Badge](https://img.shields.io/badge/-John%20Finberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=john-finberg/)](john-finberg/)
+[![Linkedin Badge](https://img.shields.io/badge/-John%20Finberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-finberg)
 [![Gmail Badge](https://img.shields.io/badge/-johnbfinberg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnbfinberg@gmail.com)](mailto:johnbfinberg@gmail.com)
 
 ### 👋 About Me
