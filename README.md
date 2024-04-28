@@ -12,7 +12,7 @@ I am a software engineer with a passion for building products that help people. 
  - Software Engineer Intern @ RoundhouseOne (2021)
 
 ### 🏫 Education
- - Applicant M.S. in Computer Science from Brown University (2024-2025)
+ - M.S. in Computer Science from Brown University (2024-2025)
  - B.S. in Computer Science from Brown University (2022-2024)
  - B.S. in Computer Science from Haverford College (2020-2022)
 
