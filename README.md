@@ -6,7 +6,7 @@
 I am a software engineer with a passion for building products that help people. I am currently a cofounder at Mezo, a startup aggregating the shopping experience into a simple algorithmic experience. I am also a student at Brown University studying computer science.
 
 ### 💼 Experience 
- - Cofounder @ Mezo (2023-present)
+ - Co-Founder @ Fortress YC S2024 (2024)
  - Software Development Engineer Intern @ Amazon (2023)
  - Web Development Intern @ University California San Francisco (2022)
  - Software Engineer Intern @ RoundhouseOne (2021)
